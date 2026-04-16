@@ -1,7 +1,7 @@
 evmConfig = {
     "import.reset": True,
     # 0 = None, 1 = TRI, 2 = CTXR
-    "import.texmode": 0,
+    "import.texmode": 2,
     "import.ctxr_replace": False,
     "import.merge_mat": False, # Nicer in Blender, export issues
     "export.make_cmdl": True,
@@ -12,7 +12,7 @@ evmConfig = {
 kmsConfig = {
     "import.reset": True,
     # 0 = None, 1 = TRI, 2 = CTXR
-    "import.texmode": 0,
+    "import.texmode": 2,
     "import.ctxr_replace": False,
     "import.merge_mat": False, # Nicer in Blender, export issues
     # 0 = Never backup, 1 = Backup if backup doesn't exist, 2 = Always backup
